@@ -91,5 +91,8 @@ Após a criação do banco os dados MySQL, foi feita a integração ao Power BI.
 
 Após a transformação dos dados proposta, os mesmos foram testados utilizando alguns visuais do Power BI conforme imagem abaixo:
 
-![Teste dos dados](src="./Imagens/09.png")
+<img 
+    src="./Imagens/09.png"
+    width="500"  
+/>
 
